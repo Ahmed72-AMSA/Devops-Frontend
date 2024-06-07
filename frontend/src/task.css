@@ -1,0 +1,15 @@
+.con{
+  background-color: #0F172A;
+}
+.task{
+  margin-top: 164px;
+}
+.icon:hover {
+  background-color: #E48F0F;
+  padding: 5px; /* Optional: adds some padding to the icons */
+  border-radius: 50%; /* Optional: adds a circular effect */
+}
+.footer-section-columns span:hover {
+  color: #E48F0F; /* Change the color to your desired color */
+}
+

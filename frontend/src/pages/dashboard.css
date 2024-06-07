@@ -1,0 +1,14 @@
+
+
+.dashboard-container {
+    
+    min-height: 100vh; 
+  }
+  
+ .dashboard-content {
+    padding: 20px;
+  }
+  .nav{
+      background: #1F2A40;
+  }
+   
